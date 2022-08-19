@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,d as l}from"./app.fe801edb.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"vue/vue3\u4E2D\u4F7F\u7528ref.md"}'),p={name:"vue/vue3\u4E2D\u4F7F\u7528ref.md"},o=l("",1),e=[o];function t(c,r,D,F,y,A){return a(),n("div",null,e)}var _=s(p,[["render",t]]);export{i as __pageData,_ as default};
